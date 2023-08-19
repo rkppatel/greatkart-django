@@ -146,12 +146,9 @@ MESSAGE_TAGS = {
 
 
 # SMTP CONFIGURATION - EMAIL
-
 EMAIL_HOST = '******'
 EMAIL_PORT = '***'
 EMAIL_HOST_USER = 'example.com'
 EMAIL_HOST_PASSWORD = '******'
 EMAIL_USE_TLS = True
-
-
  
